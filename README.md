@@ -1,6 +1,6 @@
 # Churn-Modelling-using-Deep-Learning
 
--Developed develop an accurate and efficient churn prediction model using deep learning 
+ -Developed develop an accurate and efficient churn prediction model using deep learning 
  techniques (ANN). This involved analyzing historical customer data to identify patterns and 
  factors contributing to churn.
 
